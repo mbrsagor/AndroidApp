@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/books"
+            android:title="Books" />
+        <item
+            android:id="@+id/result"
+            android:title="Result" />
+        <item
+            android:id="@+id/edu_update"
+            android:title="Education Update" />
+        <item
+            android:id="@+id/job_circular"
+            android:title="Job Circular" />
+        <item
+            android:id="@+id/nav_tutorial"
+            android:title="Tutorial" />
+
+    </group>
+
+</menu>

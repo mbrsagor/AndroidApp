@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Epathagar.com</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="app_title">ePathagar</string>
+    <string name="app_subtitle">A Online Digital Library</string>
+    <string name="action_settings">Search</string>
+    <string name="list_title">Edu-Update-HSC EXAM RESULT 2017</string>
+    <string name="list_date">27/july/2017</string>
+    <string name="error_message">Sorry!!This apps under construction. try again later??</string>
+
+    <string name="copy_write">
+        All website content © Copyright 2017 Developed by <b>SourceCode Soft</b>
+    </string>
+
+
+    <string name="about_us">ePathagar is a blog site built to provide educational news, results, tech tutorials, job posting etc. for their visitor. And this app provide the same things for Android device which is developed by SourceCode Soft. All content and element are copyright of ePathagar and copying anything from are strictly prohibited!   </string>
+</resources>
